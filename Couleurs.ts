@@ -1,3 +1,4 @@
+// Enumération des couleurs
 enum Couleurs {
     ROUGE = "rouge",
     BLEU = "bleu",
