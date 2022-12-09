@@ -1,4 +1,4 @@
-# Poney Fighter !
+## Poney Fighter !
 
 Démonstration improvisée sur un combat de poneys en arène qui met pratique les concepts suivants : 
 
