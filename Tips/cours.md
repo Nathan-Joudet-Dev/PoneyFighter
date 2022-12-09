@@ -13,7 +13,7 @@
 // Faire appel à un attribut qui n'existe pas (attribut qui ne bougera jamais) ==> encapsulation
 // .join => Mettre tous les éléments du tableau côte à côte
 
-// Implements => fleche pointille - - - >
+// Implements => fleche pointille "- - - >"
 
 // Une classe est Abstraite quand on va mettre bcp de logique dedans
 // permet aussi d'être implémenter
