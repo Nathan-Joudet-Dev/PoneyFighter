@@ -1,3 +1,4 @@
+// Tests
 import Arene from "./classes/Arene";
 import PoneyGuerrier from "./classes/PoneyGuerrier";
 import PoneyMage from "./classes/PoneyMage";
