@@ -1,4 +1,4 @@
-// Programme Combats de Poneys
+## Programme Combats de Poneys
 
 // nom/age/couleurs => attributs du poney
 // Autre manière d'exporter une classe => export default {NomDeLaClasse} à mettre en bas du fichier
