@@ -19,7 +19,7 @@ export default class PoneyGuerrier extends Poney implements Guerrier {
     /**
      * Effectue une attaque dont les dégâts sont multipliés par l'énergie dépensée
      * @param nombreDenergie nombre d'énergie à dépenser
-     * @returns dégâts de l'attaque puissante
+     * @returns dégats de l'attaque puissante
      */
     attaquePuissante(nombreDenergie: number): number {
         this.energie = nombreDenergie;

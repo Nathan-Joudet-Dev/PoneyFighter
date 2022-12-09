@@ -14,7 +14,7 @@ export default class Arene {
     /**
      * Affiche qui est le vainqueur
      * @param poney1 
-     * @param poney2 
+     * @param poney2
      * @returns Le poney qui est toujours en vie
      */
     private definirVainqueur(poney1: Poney, poney2: Poney){

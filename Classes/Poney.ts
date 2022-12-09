@@ -87,7 +87,7 @@ export default abstract class Poney {
   }
 
   /**
-   * Calcul le nombre de dégats infligés par le poney, en fonction de son niveau et du résultat d'un dés à 6 faces
+   * Calcul le nombre de dégats infligés par le poney, en fonction de son niveau et du résultat d'un dé à 6 faces
    * @returns Dégats infligés
    */
   public attaqueBasique() {

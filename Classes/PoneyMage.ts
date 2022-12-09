@@ -20,11 +20,10 @@ export default class PoneyMage extends Poney implements Magique {
     /**
      * Effectue une attaque dont les dégâts sont multipliés par le nombre de PM dépensés
      * @param nombreDePm nombre de PM à dépenser
-     * @returns dégâts de l'attaque magique
+     * @returns dégats de l'attaque magique
      */
     attaqueMagique(nombreDePm: number): number {
         this.pm = nombreDePm;
         return this.attaqueBasique() * nombreDePm;
     }
-
 }
